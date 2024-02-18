@@ -4,7 +4,7 @@ var app = builder.Build();
 app.MapGet("/{name}", (string name) => $"Hello {name}");
 
 
-app.MapPost("/", (User user) =>
+app.MapPost("/", (User us) =>
 {
     return Results.Ok(user);
 });
