@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MinhaApi\\MinhaApi.csproj": {}
+    "C:\\GitProjetoAPI\\MinhaApi.csproj": {}
   },
   "projects": {
-    "C:\\MinhaApi\\MinhaApi.csproj": {
+    "C:\\GitProjetoAPI\\MinhaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MinhaApi\\MinhaApi.csproj",
+        "projectUniqueName": "C:\\GitProjetoAPI\\MinhaApi.csproj",
         "projectName": "MinhaApi",
-        "projectPath": "C:\\MinhaApi\\MinhaApi.csproj",
+        "projectPath": "C:\\GitProjetoAPI\\MinhaApi.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\MinhaApi\\obj\\",
+        "outputPath": "C:\\GitProjetoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
