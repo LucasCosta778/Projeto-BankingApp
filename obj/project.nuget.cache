@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qS6az1yHoncs61PtycCAnp0TlJQiplDEWbvgf4wvYktSAGocoFKwfCcM+FyRhr1TMfirwRDwX4VhtvoDJMLywQ==",
+  "dgSpecHash": "whT0Hc4LX92ucN3dtt8QDaX9B4T3+EOIbEit4Vn1IpW30vPcEDKjRMo6717L1/sHb892CsuHXk7D2cLLAVhVPQ==",
   "success": true,
-  "projectFilePath": "C:\\MinhaApi\\MinhaApi.csproj",
+  "projectFilePath": "C:\\GitProjetoAPI\\MinhaApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
