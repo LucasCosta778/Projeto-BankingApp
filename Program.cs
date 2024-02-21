@@ -1,18 +1,14 @@
+using GITPROJETOAPI.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllers();
+
+builder.Services.AddDbContext<AppDbContext>();
+
 var app = builder.Build();
 
-app.MapGet("/{name}", (string name) => $"Hello {name}");
-
-
-app.MapPost("/", (User user) =>
-{
-    return Results.Ok(user);
-});
+app.MapControllers();
 
 app.Run();
 
-public class User
-{
-    public int Id { get; set; }
-    public string Name { get; set; }
-}
